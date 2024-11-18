@@ -209,5 +209,8 @@ int main(){
 
    // hollow diamond pattern
 
+   
+
+
     return 0;
 }
