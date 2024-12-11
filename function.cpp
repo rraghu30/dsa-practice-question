@@ -164,6 +164,8 @@ int main(){
 // hy , I am Raghu.
 
 
+/*
+
 int decToBinary(int decNum) {
     int ans =0, pow = 1;
 
@@ -185,4 +187,18 @@ int main(){
         cout << decToBinary(i) << endl;
     }
     return 0;
+}
+
+*/
+
+int main(){
+
+   int a = 4, b = 8;
+
+   cout << (a & b)<< endl;
+   cout << (a || b)<< endl;
+   cout << (a ^ b)<< endl;
+
+   return 0;
+
 }
